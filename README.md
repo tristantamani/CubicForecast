@@ -4,8 +4,8 @@ Cubic Forecast is a predictive water billing software application designed to as
 
 ## 📸 Screenshots
 
-<img src="/assets/images/screenshot1.png" height="450">
-<img src="/assets/images/screenshot2.png" height="472">
+<img src="/assets/images/screenshot1.png">
+<img src="/assets/images/screenshot2.png">
 
 ## 📄 General Information
 
